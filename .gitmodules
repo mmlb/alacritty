@@ -1,0 +1,3 @@
+[submodule "font/rust-fontconfig"]
+	path = font/rust-fontconfig
+	url = https://github.com/jwilm/rust-fontconfig
